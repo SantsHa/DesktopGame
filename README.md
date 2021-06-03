@@ -17,7 +17,7 @@ La Raspbery recine los datos por UART y los procesa para poder mover un objeto e
 
 Todos los archivos deben estar ubicados en una misma carpeta para su correcto funcionamiento.
 
-### _VIDEO DEMO_ [MP3](https://www.youtube.com/watch?v=m8hto5do5no)
+### _VIDEO DEMO_ [PyGame](https://www.youtube.com/watch?v=m8hto5do5no)
 
 ![excRasp](https://user-images.githubusercontent.com/70683976/120696444-30dc6c80-c472-11eb-9c3c-a39b37462867.png)
 ![deskRasp](https://user-images.githubusercontent.com/70683976/120696447-31750300-c472-11eb-8bf7-82678dc6e090.png)
