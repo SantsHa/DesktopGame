@@ -16,3 +16,7 @@ La Raspbery recine los datos por UART y los procesa para poder mover un objeto e
 * Cada 20 segundos aumenta la velocidad del ratón
 
 Todos los archivos deben estar ubicados en una misma carpeta para su correcto funcionamiento.
+
+![excRasp](https://user-images.githubusercontent.com/70683976/120696444-30dc6c80-c472-11eb-9c3c-a39b37462867.png)
+![deskRasp](https://user-images.githubusercontent.com/70683976/120696447-31750300-c472-11eb-8bf7-82678dc6e090.png)
+![gameRasp](https://user-images.githubusercontent.com/70683976/120696449-31750300-c472-11eb-870c-87676984553f.png)
